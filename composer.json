@@ -1,0 +1,12 @@
+{
+  "name": "arnaudjuracek/iframe-field",
+  "description": "A very simple field to display an iframe in the panel",
+  "version": "0.1.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "arnaudjuracek",
+      "email": "arnaud.juracek+github@gmail.com"
+    }
+  ]
+}
